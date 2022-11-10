@@ -265,7 +265,7 @@ func (s *KeeperTestSuite) advanceHeight(height int, withBeginBlock bool) {
 			// liquid validator set update, rebalancing, withdraw rewards, re-stake
 			liquidstaking.BeginBlocker(s.ctx, s.app.LiquidStakingKeeper)
 		}
-		staking.EndBlocker(s.ctx, *s.app.StakingKeeper)
+		staking.EndBlocker(s.ctx, s.app.StakingKeeper)
 	}
 }
 
