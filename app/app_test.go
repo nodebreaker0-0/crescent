@@ -36,11 +36,9 @@ import (
 	tmproto "github.com/tendermint/tendermint/proto/tendermint/types"
 	dbm "github.com/tendermint/tm-db"
 
-	"github.com/crescent-network/crescent/v4/x/claim"
 	"github.com/crescent-network/crescent/v4/x/farming"
 	"github.com/crescent-network/crescent/v4/x/liquidfarming"
 	"github.com/crescent-network/crescent/v4/x/liquidity"
-	"github.com/crescent-network/crescent/v4/x/liquidstaking"
 	"github.com/crescent-network/crescent/v4/x/lpfarm"
 	"github.com/crescent-network/crescent/v4/x/marketmaker"
 	"github.com/crescent-network/crescent/v4/x/mint"
@@ -193,9 +191,7 @@ func TestRunMigrations(t *testing.T) {
 					"budget":             budget.AppModule{}.ConsensusVersion(),
 					"farming":            farming.AppModule{}.ConsensusVersion(),
 					"liquidity":          liquidity.AppModule{}.ConsensusVersion(),
-					"liquidstaking":      liquidstaking.AppModule{}.ConsensusVersion(),
 					"liquidfarming":      liquidfarming.AppModule{}.ConsensusVersion(),
-					"claim":              claim.AppModule{}.ConsensusVersion(),
 					"marketmaker":        marketmaker.AppModule{}.ConsensusVersion(),
 					"lpfarm":             lpfarm.AppModule{}.ConsensusVersion(),
 					"ibc":                ibc.AppModule{}.ConsensusVersion(),
@@ -256,9 +252,7 @@ func TestInitGenesisOnMigration(t *testing.T) {
 			"budget":        budget.AppModule{}.ConsensusVersion(),
 			"farming":       farming.AppModule{}.ConsensusVersion(),
 			"liquidity":     liquidity.AppModule{}.ConsensusVersion(),
-			"liquidstaking": liquidstaking.AppModule{}.ConsensusVersion(),
 			"liquidfarming": liquidfarming.AppModule{}.ConsensusVersion(),
-			"claim":         claim.AppModule{}.ConsensusVersion(),
 			"marketmaker":   marketmaker.AppModule{}.ConsensusVersion(),
 			"lpfarm":        lpfarm.AppModule{}.ConsensusVersion(),
 			"ibc":           ibc.AppModule{}.ConsensusVersion(),

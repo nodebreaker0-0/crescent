@@ -32,7 +32,6 @@ const (
 	DefaultWeightUpdateWhitelistValidatorsProposal int = 5
 	DefaultWeightDeleteWhitelistValidatorsProposal int = 5
 	DefaultWeightCompleteRedelegationUnbonding     int = 30
-	DefaultWeightTallyWithLiquidStaking            int = 30
 
 	DefaultWeightMsgClaim int = 50
 
