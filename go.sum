@@ -964,8 +964,8 @@ github.com/nishanths/exhaustive v0.8.3 h1:pw5O09vwg8ZaditDp/nQRqVnrMczSJDxRDJMow
 github.com/nishanths/exhaustive v0.8.3/go.mod h1:qj+zJJUgJ76tR92+25+03oYUhzF4R7/2Wk7fGTfCHmg=
 github.com/nishanths/predeclared v0.2.2 h1:V2EPdZPliZymNAn79T8RkNApBjMmVKh5XRpLm/w98Vk=
 github.com/nishanths/predeclared v0.2.2/go.mod h1:RROzoN6TnGQupbC+lqggsOlcgysk3LMK/HI84Mp280c=
-github.com/nodebreaker0-0/rollkit v0.6.1-0.20230222074354-550861e4533b h1:C9D6VEdMe3EL8an6aiqPxKNTzeYPSk/lAx+KWLt4y3E=
-github.com/nodebreaker0-0/rollkit v0.6.1-0.20230222074354-550861e4533b/go.mod h1:2cOds111IIyOQ6H0JmjfJOzDhHYAwBEQeBdRUevA72g=
+github.com/nodebreaker0-0/rollkit v0.6.1-0.20230222080247-cb4dc6257a68 h1:OAnc5BYY/8xH559D2s050scTrVk8n342ONnpZDMPbTg=
+github.com/nodebreaker0-0/rollkit v0.6.1-0.20230222080247-cb4dc6257a68/go.mod h1:2cOds111IIyOQ6H0JmjfJOzDhHYAwBEQeBdRUevA72g=
 github.com/nxadm/tail v1.4.4/go.mod h1:kenIhsEOeOJmVchQTgglprH7qJGnHDVpk1VPCcaMI8A=
 github.com/nxadm/tail v1.4.8 h1:nPr65rt6Y5JFSKQO7qToXr7pePgD6Gwiw05lkbyAQTE=
 github.com/oklog/oklog v0.3.2/go.mod h1:FCV+B7mhrz4o+ueLpx+KqkyXRGMWOYEvfiXtdGtbWGs=
