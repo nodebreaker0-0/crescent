@@ -183,8 +183,6 @@ github.com/buger/jsonparser v0.0.0-20181115193947-bf1c66bbce23/go.mod h1:bbYlZJ7
 github.com/butuzov/ireturn v0.1.1 h1:QvrO2QF2+/Cx1WA/vETCIYBKtRjc30vesdoPUNo1EbY=
 github.com/butuzov/ireturn v0.1.1/go.mod h1:Wh6Zl3IMtTpaIKbmwzqi6olnM9ptYQxxVacMsOEFPoc=
 github.com/casbin/casbin/v2 v2.1.2/go.mod h1:YcPU1XXisHhLzuxH9coDNf2FbKpjGlbCg3n9yuLkIJQ=
-github.com/celestiaorg/cosmos-sdk-rollmint v0.45.10-rollkit-v0.7.3-no-fraud-proofs h1:zZMWvrtXkSQq47D2UO0kXjkkhUwajrOI67pD2bWz+q4=
-github.com/celestiaorg/cosmos-sdk-rollmint v0.45.10-rollkit-v0.7.3-no-fraud-proofs/go.mod h1:FBy2Ks+yQiizEDB1Q8BHNSX2i4KUaDZzaxHy8yc2h3c=
 github.com/celestiaorg/go-cnc v0.3.0 h1:eAVPNHGpx+2sBO7NZyQ1+VW8rzf6W4FQDlSq6aqSTsM=
 github.com/celestiaorg/go-cnc v0.3.0/go.mod h1:zYzvHudSd1iNPuHBMyvZ1YvWou5aT9JXgtch9Tkaf70=
 github.com/celestiaorg/go-header v0.2.1 h1:h6EiEcrA7K9dg5bRNe7aNQ13rDAL4/wRB5jujMGP1Ho=
@@ -1310,6 +1308,8 @@ github.com/rogpeppe/fastuuid v0.0.0-20150106093220-6724a57986af/go.mod h1:XWv6So
 github.com/rogpeppe/fastuuid v1.2.0/go.mod h1:jVj6XXZzXRy/MSR5jhDC/2q6DgLz+nrA6LYCDYWNEvQ=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
 github.com/rogpeppe/go-internal v1.9.0 h1:73kH8U+JUqXU8lRuOHeVHaa/SZPifC7BkcraZVejAe8=
+github.com/rollkit/cosmos-sdk v0.45.10-rollkit-v0.7.3-no-fraud-proofs h1:gb/8D1GFrxwo86owFzIC6Rqz7MxjfFSqeGfDmhVJhHE=
+github.com/rollkit/cosmos-sdk v0.45.10-rollkit-v0.7.3-no-fraud-proofs/go.mod h1:FBy2Ks+yQiizEDB1Q8BHNSX2i4KUaDZzaxHy8yc2h3c=
 github.com/rs/cors v0.0.0-20160617231935-a62a804a8a00/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
 github.com/rs/cors v1.7.0/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
 github.com/rs/cors v1.8.3 h1:O+qNyWn7Z+F9M0ILBHgMVPuB1xTOucVd5gtaYyXBpRo=
