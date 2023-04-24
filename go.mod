@@ -352,7 +352,7 @@ replace (
 	github.com/cosmos/cosmos-sdk => github.com/rollkit/cosmos-sdk v0.45.10-rollkit-v0.7.3-no-fraud-proofs
 	github.com/cosmos/ibc-go/v3 => github.com/crescent-network/ibc-go/v3 v3.4.0-crescent-v4-2
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
-	github.com/rollkit/rollkit => github.com/nodebreaker0-0/rollkit v0.7.3-0.20230405190140-9955211020ce
+	github.com/rollkit/rollkit => github.com/nodebreaker0-0/rollkit v0.7.3-0.20230424134420-c5cb256717a8
 	// github.com/keybase/go-keychain => github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
