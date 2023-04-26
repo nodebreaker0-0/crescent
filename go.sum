@@ -1130,8 +1130,6 @@ github.com/nishanths/exhaustive v0.8.3 h1:pw5O09vwg8ZaditDp/nQRqVnrMczSJDxRDJMow
 github.com/nishanths/exhaustive v0.8.3/go.mod h1:qj+zJJUgJ76tR92+25+03oYUhzF4R7/2Wk7fGTfCHmg=
 github.com/nishanths/predeclared v0.2.2 h1:V2EPdZPliZymNAn79T8RkNApBjMmVKh5XRpLm/w98Vk=
 github.com/nishanths/predeclared v0.2.2/go.mod h1:RROzoN6TnGQupbC+lqggsOlcgysk3LMK/HI84Mp280c=
-github.com/nodebreaker0-0/rollkit v0.7.3-0.20230424143326-ac0be8a99a4f h1:mUv9zE3MTqkXDj4HxHPWiz0XGOe/Ty8ZIJcBHe7z8Pc=
-github.com/nodebreaker0-0/rollkit v0.7.3-0.20230424143326-ac0be8a99a4f/go.mod h1:JejNvF4GlAjlT+dnfP4D5EP6spmwKpW8yyzxLPGiuog=
 github.com/nxadm/tail v1.4.4/go.mod h1:kenIhsEOeOJmVchQTgglprH7qJGnHDVpk1VPCcaMI8A=
 github.com/nxadm/tail v1.4.8 h1:nPr65rt6Y5JFSKQO7qToXr7pePgD6Gwiw05lkbyAQTE=
 github.com/nxadm/tail v1.4.8/go.mod h1:+ncqLTQzXmGhMZNUePPaPqPvBxHAIsmXswZKocGu+AU=
@@ -1310,6 +1308,8 @@ github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFR
 github.com/rogpeppe/go-internal v1.9.0 h1:73kH8U+JUqXU8lRuOHeVHaa/SZPifC7BkcraZVejAe8=
 github.com/rollkit/cosmos-sdk v0.45.10-rollkit-v0.7.3-no-fraud-proofs h1:gb/8D1GFrxwo86owFzIC6Rqz7MxjfFSqeGfDmhVJhHE=
 github.com/rollkit/cosmos-sdk v0.45.10-rollkit-v0.7.3-no-fraud-proofs/go.mod h1:FBy2Ks+yQiizEDB1Q8BHNSX2i4KUaDZzaxHy8yc2h3c=
+github.com/rollkit/rollkit v0.7.3 h1:Tjm3fMxhkF+lncNwDJLvQ7Mm5AfgbS5UU5R5vghvInA=
+github.com/rollkit/rollkit v0.7.3/go.mod h1:JejNvF4GlAjlT+dnfP4D5EP6spmwKpW8yyzxLPGiuog=
 github.com/rs/cors v0.0.0-20160617231935-a62a804a8a00/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
 github.com/rs/cors v1.7.0/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
 github.com/rs/cors v1.8.3 h1:O+qNyWn7Z+F9M0ILBHgMVPuB1xTOucVd5gtaYyXBpRo=
