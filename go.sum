@@ -1131,6 +1131,8 @@ github.com/nishanths/exhaustive v0.8.3 h1:pw5O09vwg8ZaditDp/nQRqVnrMczSJDxRDJMow
 github.com/nishanths/exhaustive v0.8.3/go.mod h1:qj+zJJUgJ76tR92+25+03oYUhzF4R7/2Wk7fGTfCHmg=
 github.com/nishanths/predeclared v0.2.2 h1:V2EPdZPliZymNAn79T8RkNApBjMmVKh5XRpLm/w98Vk=
 github.com/nishanths/predeclared v0.2.2/go.mod h1:RROzoN6TnGQupbC+lqggsOlcgysk3LMK/HI84Mp280c=
+github.com/nodebreaker0-0/cosmos-sdk v0.45.10-rollmint-v0.5.0-no-fraud-proofs.0.20230427154901-ca2144547350 h1:0ppz9bFpayGh7FQl0G5CBhkYzErc6RMG78C+rMXpRas=
+github.com/nodebreaker0-0/cosmos-sdk v0.45.10-rollmint-v0.5.0-no-fraud-proofs.0.20230427154901-ca2144547350/go.mod h1:8IphZc+r712BqQ7jm+TmR8p+7UO2oFmX8nqvw2jwiYk=
 github.com/nodebreaker0-0/rollkit v0.7.3-0.20230427151042-b157b4bae0c8 h1:O4P7vSD3cea33TQEdJ+OosUx7mKpluJ9itVCrdmRf4c=
 github.com/nodebreaker0-0/rollkit v0.7.3-0.20230427151042-b157b4bae0c8/go.mod h1:F7K29sjURcXvhVtvp58d9yKOf9PB6T8iYH7asuAP7z0=
 github.com/nxadm/tail v1.4.4/go.mod h1:kenIhsEOeOJmVchQTgglprH7qJGnHDVpk1VPCcaMI8A=
@@ -1309,8 +1311,6 @@ github.com/rogpeppe/fastuuid v0.0.0-20150106093220-6724a57986af/go.mod h1:XWv6So
 github.com/rogpeppe/fastuuid v1.2.0/go.mod h1:jVj6XXZzXRy/MSR5jhDC/2q6DgLz+nrA6LYCDYWNEvQ=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
 github.com/rogpeppe/go-internal v1.9.0 h1:73kH8U+JUqXU8lRuOHeVHaa/SZPifC7BkcraZVejAe8=
-github.com/rollkit/cosmos-sdk v0.45.10-rollkit-v0.7.3-no-fraud-proofs h1:gb/8D1GFrxwo86owFzIC6Rqz7MxjfFSqeGfDmhVJhHE=
-github.com/rollkit/cosmos-sdk v0.45.10-rollkit-v0.7.3-no-fraud-proofs/go.mod h1:FBy2Ks+yQiizEDB1Q8BHNSX2i4KUaDZzaxHy8yc2h3c=
 github.com/rs/cors v0.0.0-20160617231935-a62a804a8a00/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
 github.com/rs/cors v1.7.0/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
 github.com/rs/cors v1.9.0 h1:l9HGsTsHJcvW14Nk7J9KFz8bzeAWXn3CG6bgt7LsrAE=
