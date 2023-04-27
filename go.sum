@@ -1131,10 +1131,10 @@ github.com/nishanths/exhaustive v0.8.3 h1:pw5O09vwg8ZaditDp/nQRqVnrMczSJDxRDJMow
 github.com/nishanths/exhaustive v0.8.3/go.mod h1:qj+zJJUgJ76tR92+25+03oYUhzF4R7/2Wk7fGTfCHmg=
 github.com/nishanths/predeclared v0.2.2 h1:V2EPdZPliZymNAn79T8RkNApBjMmVKh5XRpLm/w98Vk=
 github.com/nishanths/predeclared v0.2.2/go.mod h1:RROzoN6TnGQupbC+lqggsOlcgysk3LMK/HI84Mp280c=
-github.com/nodebreaker0-0/cosmos-sdk v0.45.10-rollmint-v0.5.0-no-fraud-proofs.0.20230427154901-ca2144547350 h1:0ppz9bFpayGh7FQl0G5CBhkYzErc6RMG78C+rMXpRas=
-github.com/nodebreaker0-0/cosmos-sdk v0.45.10-rollmint-v0.5.0-no-fraud-proofs.0.20230427154901-ca2144547350/go.mod h1:8IphZc+r712BqQ7jm+TmR8p+7UO2oFmX8nqvw2jwiYk=
-github.com/nodebreaker0-0/rollkit v0.7.3-0.20230427151042-b157b4bae0c8 h1:O4P7vSD3cea33TQEdJ+OosUx7mKpluJ9itVCrdmRf4c=
-github.com/nodebreaker0-0/rollkit v0.7.3-0.20230427151042-b157b4bae0c8/go.mod h1:F7K29sjURcXvhVtvp58d9yKOf9PB6T8iYH7asuAP7z0=
+github.com/nodebreaker0-0/cosmos-sdk v0.45.10-rollkit-v0.7.4-no-fraud-proofs h1:JKhbYyqrihf5/BOv9GolIUXlI9eTudOai34/GepieuI=
+github.com/nodebreaker0-0/cosmos-sdk v0.45.10-rollkit-v0.7.4-no-fraud-proofs/go.mod h1:8IphZc+r712BqQ7jm+TmR8p+7UO2oFmX8nqvw2jwiYk=
+github.com/nodebreaker0-0/rollkit v0.7.4-ws h1:J/5E0aavcdIA5OOwPCjUJupA3KUPtZctuirBLUSfe/o=
+github.com/nodebreaker0-0/rollkit v0.7.4-ws/go.mod h1:cPLfT+2t+M/qr4kWKJto3rCdUcSjbVaWT4P/wJ7hwIk=
 github.com/nxadm/tail v1.4.4/go.mod h1:kenIhsEOeOJmVchQTgglprH7qJGnHDVpk1VPCcaMI8A=
 github.com/nxadm/tail v1.4.8 h1:nPr65rt6Y5JFSKQO7qToXr7pePgD6Gwiw05lkbyAQTE=
 github.com/nxadm/tail v1.4.8/go.mod h1:+ncqLTQzXmGhMZNUePPaPqPvBxHAIsmXswZKocGu+AU=
