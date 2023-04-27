@@ -350,10 +350,10 @@ require (
 
 replace (
 	github.com/confio/ics23/go => github.com/cosmos/cosmos-sdk/ics23/go v0.8.0 // dragonberry security patch
-	github.com/cosmos/cosmos-sdk => github.com/nodebreaker0-0/cosmos-sdk v0.45.10-rollkit-v0.7.4-no-fraud-proofs
+	github.com/cosmos/cosmos-sdk => github.com/nodebreaker0-0/cosmos-sdk v0.45.10-rollkit-v0.7.4-no-fraud-proofs-main
 	github.com/cosmos/ibc-go/v3 => github.com/crescent-network/ibc-go/v3 v3.4.0-crescent-v4-2
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
-	github.com/rollkit/rollkit => github.com/nodebreaker0-0/rollkit v0.7.4-ws
+	github.com/rollkit/rollkit => github.com/nodebreaker0-0/rollkit v0.7.4-ws-main
 	// github.com/keybase/go-keychain => github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
