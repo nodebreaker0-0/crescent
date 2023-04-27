@@ -1130,8 +1130,8 @@ github.com/nishanths/exhaustive v0.8.3 h1:pw5O09vwg8ZaditDp/nQRqVnrMczSJDxRDJMow
 github.com/nishanths/exhaustive v0.8.3/go.mod h1:qj+zJJUgJ76tR92+25+03oYUhzF4R7/2Wk7fGTfCHmg=
 github.com/nishanths/predeclared v0.2.2 h1:V2EPdZPliZymNAn79T8RkNApBjMmVKh5XRpLm/w98Vk=
 github.com/nishanths/predeclared v0.2.2/go.mod h1:RROzoN6TnGQupbC+lqggsOlcgysk3LMK/HI84Mp280c=
-github.com/nodebreaker0-0/rollkit v0.7.3-0.20230427101239-d071c08b5e0b h1:Ax+JcGuhB/XWrlLqiQl//CLGtocjW5LId20NGmsCFa8=
-github.com/nodebreaker0-0/rollkit v0.7.3-0.20230427101239-d071c08b5e0b/go.mod h1:JejNvF4GlAjlT+dnfP4D5EP6spmwKpW8yyzxLPGiuog=
+github.com/nodebreaker0-0/rollkit v0.7.3-0.20230427101925-ddc60d3c8d46 h1:8CgEphLWN27uoaOKh2BGW8GDqy2Xj4BHTFY52FR3tHs=
+github.com/nodebreaker0-0/rollkit v0.7.3-0.20230427101925-ddc60d3c8d46/go.mod h1:JejNvF4GlAjlT+dnfP4D5EP6spmwKpW8yyzxLPGiuog=
 github.com/nxadm/tail v1.4.4/go.mod h1:kenIhsEOeOJmVchQTgglprH7qJGnHDVpk1VPCcaMI8A=
 github.com/nxadm/tail v1.4.8 h1:nPr65rt6Y5JFSKQO7qToXr7pePgD6Gwiw05lkbyAQTE=
 github.com/nxadm/tail v1.4.8/go.mod h1:+ncqLTQzXmGhMZNUePPaPqPvBxHAIsmXswZKocGu+AU=
